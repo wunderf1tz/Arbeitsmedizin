@@ -64,6 +64,26 @@ Badura, B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bundesdrogenbeauftrage%
+}{%
+Bundesdrogenbeauftrage%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+drogenbeauftragte2020}
+\APACinsertmetastar {%
+drogenbeauftragte2020}%
+\begin{APACrefauthors}%
+Bundesdrogenbeauftrage.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {Jahresbericht} {Jahresbericht}\ \APACbVolEdTR{}{\BTR{}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Ennenbach%
 , Gass%
 , Reinecker%
@@ -93,6 +113,33 @@ Ennenbach, M.%
 \APACjournalVolNumPages{Der Nervenarzt}{80}{3}{305--314}.
 \newblock
 \begin{APACrefDOI} \doi{10.1007/s00115-008-2590-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Funke-Kayer}%
+}{%
+{Funke-Kayer}%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+funke-kayerLangstenFehlzeitenWeiterhin2019}
+\APACinsertmetastar {%
+funke-kayerLangstenFehlzeitenWeiterhin2019}%
+\begin{APACrefauthors}%
+{Funke-Kayer}, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{05}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Die L\"angsten {{Fehlzeiten}} Weiterhin Durch Psychische
+  {{Erkrankungen}}} {Die l\"angsten {{Fehlzeiten}} weiterhin durch psychische
+  {{Erkrankungen}}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Pressemitteilung Der {{BPtK}}} {Pressemitteilung der
+  {{BPtK}}}\ (\BPG~3).
+\newblock
+\APACaddressPublisher{{Berlin}}{{BPtK}}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -155,6 +202,37 @@ Knieps, F.%
 \newblock
 \APACrefbtitle {{Psychische Gesundheit und Arbeit Zahlen, Daten, Fakten}}
   {{Psychische Gesundheit und Arbeit Zahlen, Daten, Fakten}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Rey-Riek}%
+, G{\"u}ttinger%
+\BCBL {}\ \BBA {} Rehm%
+}{%
+{Rey-Riek}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+rey-riekLohntSichBetriebliche2003}
+\APACinsertmetastar {%
+rey-riekLohntSichBetriebliche2003}%
+\begin{APACrefauthors}%
+{Rey-Riek}, S.%
+, G{\"u}ttinger, F.%
+\BCBL {}\ \BBA {} Rehm, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Lohnt sich betriebliche Suchtpr\"avention?: Zu
+  Effektivit\"at und Effizienz betrieblicher Alkoholpr\"avention}} {{Lohnt sich
+  betriebliche Suchtpr\"avention?: Zu Effektivit\"at und Effizienz
+  betrieblicher Alkoholpr\"avention}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Suchttherapie}{4}{1}{12--17}.
+\newblock
+\begin{APACrefDOI} \doi{10.1055/s-2003-38099} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

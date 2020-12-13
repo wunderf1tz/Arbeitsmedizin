@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020 Gentoo Linux) (preloaded format=pdflatex 2020.6.7)  2 DEC 2020 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020 Gentoo Linux) (preloaded format=pdflatex 2020.6.7)  5 DEC 2020 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -165,14 +165,14 @@ LaTeX Font Info:    ... okay on input line 13.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * bindingoffset: 17.07164pt
 * modes: 
-* h-part:(L,W,R)=(76.82245pt, 426.79134pt, 76.82245pt)
+* h-part:(L,W,R)=(34.14331pt, 512.1496pt, 34.14333pt)
 * v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=426.79134pt
+* \textwidth=512.1496pt
 * \textheight=702.78308pt
-* \oddsidemargin=21.6241pt
-* \evensidemargin=4.55246pt
+* \oddsidemargin=-21.05504pt
+* \evensidemargin=-38.12668pt
 * \topmargin=-38.1381pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -222,24 +222,19 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (6.93163pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 Zu in-ter-ven-tionellen BSPs ist die Daten-lage knapp und wenig ak-tuell, we-shalb auf die gesellschaftliche
- []
-
-[1
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./abstract.bbl) [2] (./abstract.aux) ) 
 Here is how much of TeX's memory you used:
- 3372 strings out of 482935
- 43742 string characters out of 5958017
- 286278 words of memory out of 5000000
- 18602 multiletter control sequences out of 15000+600000
+ 3381 strings out of 482935
+ 44057 string characters out of 5958017
+ 287639 words of memory out of 5000000
+ 18611 multiletter control sequences out of 15000+600000
  540779 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 30i,4n,27p,1569b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,4n,27p,1662b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on abstract.pdf (2 pages, 124691 bytes).
+Output written on abstract.pdf (2 pages, 127385 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
